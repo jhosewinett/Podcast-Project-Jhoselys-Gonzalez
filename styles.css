@@ -200,7 +200,7 @@ section div.podcast {
 }
 
 #nosotros div.phone:hover {
-  transform: translateY(-5);
+  transform: translateY(-10);
 }
 
 #nosotros h1 {
@@ -235,11 +235,11 @@ section div.podcast {
 
 #entrevistas img {
   width: 33.33%;
-  transition: all 0.2s ease-in-out;
+  transition: all .2s ease-in-out;
 }
 
 #entrevistas img:hover {
-  transform: translateY(-10px);
+  transform: scale(1.02);
 }
 
 #entrevistas div h1 {
