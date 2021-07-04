@@ -235,11 +235,11 @@ section div.podcast {
 
 #entrevistas img {
   width: 33.33%;
-  transition: all .2s ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
 
 #entrevistas img:hover {
-  transform: scale(1.02);
+  transform: translateY(-10px);
 }
 
 #entrevistas div h1 {
