@@ -243,7 +243,7 @@ section div.podcast {
   font-size: 48px;
   color: #060A24;
   letter-spacing: 0;
-  padding: 50px 0 36px 200px;
+  padding: 10px 0 36px 200px;
 }
 
 /*SECTION-5*/
@@ -525,7 +525,7 @@ section div.podcast {
 
   #entrevistas div h1 {
       font-size: 2.5rem;
-      padding: 120px 0 36px 16px;
+      padding: 100px 0 36px 16px;
   }
 
   #topicos div h1 {
