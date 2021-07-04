@@ -196,6 +196,11 @@ section div.podcast {
   position: relative;
   top: -200px;
   padding-right: 64.5px;
+  transition: all 0.5s ease-in-out;
+}
+
+#nosotros div.phone:hover {
+  transform: translateY(-5);
 }
 
 #nosotros h1 {
